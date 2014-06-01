@@ -21,6 +21,7 @@ $('#element').jNotice({ 'type': 'error' });
 </pre>
 <pre>
 $('#element').jNotice({ 'type': 'info' });
+</pre>
 <pre>
 $('#element').jNotice({ 'type': 'success' });
 </pre>
