@@ -5,14 +5,14 @@ Create Visual Cues w/ jQuery
 
 This jQuery UI plugin facilitates the creation of visual cues.
 <br><br>
-Credits:
+<strong>Credits:</strong>
 <br>
 <ul>
 <li>
 http://web.archive.org/web/20100307014931/http://www.bioneural.net/2006/04/01/create-a-valid-css-alert-message
 </li>
 </ul>
-Usage:
+<strong>Usage:</strong>
 <ul>
 <li>
 $('#element').jNotice({ 'type': 'alert' });
