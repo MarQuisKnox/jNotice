@@ -13,16 +13,14 @@ http://web.archive.org/web/20100307014931/http://www.bioneural.net/2006/04/01/cr
 </li>
 </ul>
 <strong>Usage:</strong>
-<ul>
-<li>
+<pre>
 $('#element').jNotice({ 'type': 'alert' });
-</li>
-<li>
+</pre>
+<pre>
 $('#element').jNotice({ 'type': 'error' });
-</li>
-<li>
+</pre>
+<pre>
 $('#element').jNotice({ 'type': 'info' });
-<li>
+<pre>
 $('#element').jNotice({ 'type': 'success' });
-</li>
-</ul>
+</pre>
