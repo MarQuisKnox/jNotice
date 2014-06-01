@@ -1,9 +1,9 @@
 jNotice
 =======
 
-Create Visual Cues w/ jQuery
+<strong>Create Visual Cues w/ jQuery</strong>
 
-This jQuery UI plugin facilitates the creation of visual cues.
+This jQuery plugin facilitates the creation of visual cues.
 <br><br>
 <strong>Credits:</strong>
 <br>
